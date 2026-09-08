@@ -3,6 +3,8 @@
 一套从需求、最小实验、Harness 开发、自测、交付评估到发布与持续回归的可执行规范。
 
 > 从真实任务出发，用最小实验取得证据；以冻结基线上的正式自测和交付评估决定能否发布。
+> 
+> TIP: 适用于DeepSeek-Harness、Claude、Codex、AgentScope等成熟Agent。
 
 ## 快速开始
 
